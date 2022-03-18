@@ -68,5 +68,5 @@ hi Constant        guifg=#00FF00    guibg=#000000    ctermfg=white    ctermbg=bl
 hi DiffAdd         guifg=#00FF00    guibg=#000000    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi Number          guifg=#00FF00    guibg=#000000    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 hi Pmenu           guifg=#00FF00    guibg=#000000    ctermfg=white    ctermbg=black    gui=BOLD         cterm=BOLD
-hi String          guifg=#00EE00    guibg=#000000    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
+hi String          guifg=#00CC00    guibg=#000000    ctermfg=white    ctermbg=black    gui=NONE         cterm=NONE
 
