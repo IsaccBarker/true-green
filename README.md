@@ -1,10 +1,3 @@
-This is a true black/grey/white theme for vim. I would say it is as close as I have seen to what the original vi editors looked like (think elvis).
+This is a true green theme for vim. I haven't found any theme that recreates the classic green look of old terminals. This is based off of [true-monochrome](https://github.com/ryanpcmcquen/true-monochrome_vim).
 
-To install:
-
-    mkdir -p ~/.vim/colors/
-    wget -N https://raw.githubusercontent.com/ryanpcmcquen/true-monochrome_vim/master/colors/true-monochrome.vim -P ~/.vim/colors/
-
-Add this to your vimrc:
-
-    colorscheme true-monochrome
+Install like you would any other plugin, and enjoy :)
