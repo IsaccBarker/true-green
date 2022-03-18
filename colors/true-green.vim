@@ -27,6 +27,8 @@ hi Error           guifg=#39FF14    guibg=#000000    ctermfg=grey     ctermbg=bl
 hi Folded          guifg=#39FF14    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Function        guifg=#39FF14    guibg=#000000    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 hi Identifier      guifg=#39FF14    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE         cterm=BOLD
+hi Function        guifg=#39FF14    guibg=#000000    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=ITALIC
+hi Identifier      guifg=#39FF14    guibg=#000000    ctermfg=grey     ctermbg=black    gui=ITALIC       cterm=ITALIC
 hi Ignore          guifg=#39FF14    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
 hi Label           guifg=#39FF14    guibg=#000000    ctermfg=grey     ctermbg=black    gui=BOLD         cterm=BOLD
 hi LineNr          guifg=#39FF14    guibg=#000000    ctermfg=grey     ctermbg=black    gui=NONE         cterm=NONE
